@@ -1,0 +1,10 @@
+.DS_Store
+.vscode
+
+obj
+bin
+
+**/appsettings*.json
+
+**/wwwroot/*
+!**/wwwroot/.gitkeep
